@@ -81,11 +81,6 @@ After resizing, the program will print the output path of the resized image:
 Resized image saved: input_license_600.jpg
 ```
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
 ### Explanation:
 
 - **What it does**: The program resizes images based on predefined formats and DPI values.
