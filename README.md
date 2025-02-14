@@ -16,7 +16,7 @@ This Go program allows you to resize images based on predefined formats like lic
 2. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/image-resizer.git
+   git clone https://github.com/KoKhant02/Image-Formater.git
    ```
    
    ```bash
